@@ -1,0 +1,5 @@
+fpdf
+Pillow
+docx2pdf
+python-pptx
+reportlab
